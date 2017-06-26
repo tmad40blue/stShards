@@ -1,8 +1,8 @@
-name: ${project.name}
-version: ${project.version}
-description: ${project.description}
-author: ${organization.name}
-website: ${organization.url}
+name: stShards
+version: 2.0.5-SNAPSHOT
+description: A unique end-game survival mechanic
+author: tmad40blue
+website: http://tmad40.blue/
 
 main: Main
 

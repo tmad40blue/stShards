@@ -3,10 +3,10 @@ package blue.tmad40.stShards.utilities;
 
 import blue.tmad40.stShards.Main;
 import blue.tmad40.stShards.messages.MessageHelper;
-import net.minecraft.server.v1_11_R1.NBTTagCompound;
-import net.minecraft.server.v1_11_R1.NBTTagList;
+import net.minecraft.server.v1_12_R1.NBTTagCompound;
+import net.minecraft.server.v1_12_R1.NBTTagList;
 import org.bukkit.Material;
-import org.bukkit.craftbukkit.v1_11_R1.inventory.CraftItemStack;
+import org.bukkit.craftbukkit.v1_12_R1.inventory.CraftItemStack;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
@@ -25,7 +25,7 @@ public class ItemHelper {
 	// Gets a colored string of the Shard's name
 	public static String getShardName() {
 
-		return MessageHelper.colorConfigString("item.name");
+		return MessageHelper.colorConfigString();
 
 	}
 
@@ -123,7 +123,7 @@ public class ItemHelper {
 	// Make the given ItemStack glow like it were enchanted
 	public static ItemStack addGlow(ItemStack item) {
 
-		net.minecraft.server.v1_11_R1.ItemStack nmsStack = CraftItemStack.asNMSCopy(item);
+		net.minecraft.server.v1_12_R1.ItemStack nmsStack = CraftItemStack.asNMSCopy(item);
 
 		NBTTagCompound tag = null;
 

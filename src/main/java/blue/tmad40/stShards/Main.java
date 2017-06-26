@@ -4,7 +4,7 @@ import blue.tmad40.stShards.files.Config;
 import blue.tmad40.stShards.listeners.*;
 import blue.tmad40.stShards.metrics.MetricsLite;
 import blue.tmad40.stShards.commands.MainCommand;
-import com.shepherdjerred.stshards.listeners.*;
+import blue.tmad40.stShards.listeners.*;
 import org.bukkit.entity.Arrow;
 import org.bukkit.plugin.java.JavaPlugin;
 

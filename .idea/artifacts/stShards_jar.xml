@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stShards:jar">
+    <output-path>$USER_HOME$</output-path>
+    <root id="archive" name="stShards.jar">
+      <element id="module-output" name="main" />
+      <element id="module-output" name="stShards" />
+      <element id="extracted-dir" path="$USER_HOME$/spigotbuild/craftbukkit-1.12.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$USER_HOME$/spigotbuild/Spigot/Spigot-API" />
+      <element id="extracted-dir" path="$USER_HOME$/spigotbuild/spigot-1.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

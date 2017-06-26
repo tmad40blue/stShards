@@ -10,11 +10,31 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/spigotbuild/Spigot/Spigot-API" />
+          <root url="jar://$USER_HOME$/spigotbuild/Spigot/Spigot-API/target/spigot-api-1.12-R0.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/spigotbuild/CraftBukkit/target/craftbukkit-1.12-R0.1-SNAPSHOT.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/spigotbuild/Spigot/Spigot-API/src/main/java" />
+          <root url="jar://$USER_HOME$/spigotbuild/CraftBukkit/target/craftbukkit-1.12-R0.1-SNAPSHOT.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/spigotbuild/Spigot/Spigot-Server/target/spigot-1.12-R0.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/spigotbuild/Spigot/Spigot-Server/target/spigot-1.12-R0.1-SNAPSHOT.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>

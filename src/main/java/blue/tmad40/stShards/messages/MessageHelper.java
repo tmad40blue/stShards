@@ -12,9 +12,9 @@ import java.util.List;
 public class MessageHelper {
 
 	// Returns a colored string from the config.yml file
-	public static String colorConfigString(String input) {
+	public static String colorConfigString() {
 
-		return ChatColor.translateAlternateColorCodes('&', Main.getInstance().getConfig().getString(input));
+		return ChatColor.translateAlternateColorCodes('&', Main.getInstance().getConfig().getString("item.name"));
 
 	}
 

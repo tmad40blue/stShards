@@ -1,0 +1,20 @@
+# The prefix used for plugin messages
+prefix: "&8[&3stShards&8]: &7"
+
+# Various messages used by the plugin
+messages:
+    generic:
+        reload: "&aConfiguration reloaded"
+        noPerms: "&cYou don't have permission to do that!"
+        noConsole: "&cYou must be a player to do that!"
+        noArgs: "&cNo arguments given! Valid arguments are: %args%"
+        invalidArg: "&c%arg% is not a valid argument! Valid arguments are: %args%"
+    upgrading:
+        broadcast: "&3%player% &7just upgraded their &3%item% &7to &3Tier %tier%"
+        success: ""
+        failure: ""
+        atMaxTier: ""
+    help:
+        obtaining: "&3Storm Shards &7are extremely rare, and can only be found by mining ores, stone, or obsidian or by killing mobs"
+        using: "&7You can use your &3Storm Shards &7by going to a certain block, holding a weapon, armor, or tool in your hand, and right-clicking"
+        effect: "&7Each &3Storm Shard &7can increase the damage of your weapons or decrease the damage taken with armor"

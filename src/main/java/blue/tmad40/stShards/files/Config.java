@@ -1,7 +1,7 @@
 
-package com.shepherdjerred.stshards.files;
+package blue.tmad40.stShards.files;
 
-import com.shepherdjerred.stshards.Main;
+import blue.tmad40.stShards.Main;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 

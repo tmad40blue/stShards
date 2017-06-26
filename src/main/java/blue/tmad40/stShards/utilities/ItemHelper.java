@@ -1,8 +1,8 @@
 
-package com.shepherdjerred.stshards.utilities;
+package blue.tmad40.stShards.utilities;
 
-import com.shepherdjerred.stshards.Main;
-import com.shepherdjerred.stshards.messages.MessageHelper;
+import blue.tmad40.stShards.Main;
+import blue.tmad40.stShards.messages.MessageHelper;
 import net.minecraft.server.v1_11_R1.NBTTagCompound;
 import net.minecraft.server.v1_11_R1.NBTTagList;
 import org.bukkit.Material;

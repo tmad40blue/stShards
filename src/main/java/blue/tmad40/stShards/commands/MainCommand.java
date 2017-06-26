@@ -1,9 +1,9 @@
 
-package com.shepherdjerred.stshards.commands;
+package blue.tmad40.stShards.commands;
 
-import com.shepherdjerred.stshards.Main;
-import com.shepherdjerred.stshards.files.Config;
-import com.shepherdjerred.stshards.messages.MessageHelper;
+import blue.tmad40.stShards.Main;
+import blue.tmad40.stShards.files.Config;
+import blue.tmad40.stShards.messages.MessageHelper;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

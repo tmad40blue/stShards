@@ -1,9 +1,10 @@
-package com.shepherdjerred.stshards;
+package blue.tmad40.stShards;
 
-import com.shepherdjerred.stshards.commands.MainCommand;
-import com.shepherdjerred.stshards.files.Config;
+import blue.tmad40.stShards.files.Config;
+import blue.tmad40.stShards.listeners.*;
+import blue.tmad40.stShards.metrics.MetricsLite;
+import blue.tmad40.stShards.commands.MainCommand;
 import com.shepherdjerred.stshards.listeners.*;
-import com.shepherdjerred.stshards.metrics.MetricsLite;
 import org.bukkit.entity.Arrow;
 import org.bukkit.plugin.java.JavaPlugin;
 

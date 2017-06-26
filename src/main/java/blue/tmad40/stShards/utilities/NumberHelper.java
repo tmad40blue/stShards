@@ -1,5 +1,5 @@
 
-package com.shepherdjerred.stshards.utilities;
+package blue.tmad40.stShards.utilities;
 
 import java.util.concurrent.ThreadLocalRandom;
 

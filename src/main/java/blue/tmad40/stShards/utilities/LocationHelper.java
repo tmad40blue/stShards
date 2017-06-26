@@ -1,7 +1,7 @@
 
-package com.shepherdjerred.stshards.utilities;
+package blue.tmad40.stShards.utilities;
 
-import com.shepherdjerred.stshards.Main;
+import blue.tmad40.stShards.Main;
 import org.bukkit.Location;
 import org.bukkit.World;
 

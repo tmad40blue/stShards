@@ -1,8 +1,8 @@
 
-package com.shepherdjerred.stshards.messages;
+package blue.tmad40.stShards.messages;
 
-import com.shepherdjerred.stshards.Main;
-import com.shepherdjerred.stshards.files.Config;
+import blue.tmad40.stShards.Main;
+import blue.tmad40.stShards.files.Config;
 import org.bukkit.ChatColor;
 
 import java.util.ArrayList;

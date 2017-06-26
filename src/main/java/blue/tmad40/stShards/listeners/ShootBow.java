@@ -1,8 +1,8 @@
 
-package com.shepherdjerred.stshards.listeners;
+package blue.tmad40.stShards.listeners;
 
-import com.shepherdjerred.stshards.Main;
-import com.shepherdjerred.stshards.utilities.ItemHelper;
+import blue.tmad40.stShards.Main;
+import blue.tmad40.stShards.utilities.ItemHelper;
 import org.bukkit.entity.Arrow;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

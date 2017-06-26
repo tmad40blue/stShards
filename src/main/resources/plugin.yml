@@ -4,7 +4,7 @@ description: ${project.description}
 author: ${organization.name}
 website: ${organization.url}
 
-main: com.shepherdjerred.stshards.Main
+main: Main
 
 commands:
     sts:

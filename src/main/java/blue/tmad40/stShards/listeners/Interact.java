@@ -1,10 +1,10 @@
 
-package com.shepherdjerred.stshards.listeners;
+package blue.tmad40.stShards.listeners;
 
-import com.shepherdjerred.stshards.Main;
-import com.shepherdjerred.stshards.messages.MessageHelper;
-import com.shepherdjerred.stshards.utilities.ItemHelper;
-import com.shepherdjerred.stshards.utilities.LocationHelper;
+import blue.tmad40.stShards.Main;
+import blue.tmad40.stShards.messages.MessageHelper;
+import blue.tmad40.stShards.utilities.ItemHelper;
+import blue.tmad40.stShards.utilities.LocationHelper;
 import org.apache.commons.lang3.text.WordUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.block.Block;
